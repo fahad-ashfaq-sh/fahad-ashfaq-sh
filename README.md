@@ -1,19 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=2300&color=1E90FF&center=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B+My+name+is+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=1500&pause=2300&color=FFD700&center=true&width=1000&height=100&lines=Fahad+Ashfaq)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=2300&color=FFD700&center=true&width=1000&lines=DevOps+Engineer+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=2300&color=E5E5E5&vCenter=true&center=true&width=1000&height=30&lines=Hi+%F0%9F%91%8B+My+name+is+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&duration=1500&pause=2300&color=FFD700&vCenter=true&center=true&width=1000&height=100&lines=Fahad+Ashfaq)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=1500&pause=2300&color=1E90FF&vCenter=true&center=true&width=1000&lines=DevOps+Engineer+%26+Cloud+Enthusiast)](https://git.io/typing-svg)
+
+I’m a DevOps Engineer with a passion for building modern, reliable, and efficient systems. My work focuses on designing cloud-based solutions that ensure high availability, smooth performance, and scalability. I enjoy automating processes, optimizing workflows, and solving challenging problems to create robust and secure infrastructures.
+
+With a strong foundation in cloud technologies like AWS, I’ve worked on projects that involve deploying applications, creating CI/CD pipelines, and managing multi-region setups. I’m always excited to learn, improve, and take on new challenges that push me to grow.
+
+#
+
+* Building cloud-native projects that tackle real-world challenges in automation and infrastructure management.
+* Expanding my expertise in Container Orchestration, Infrastructure as Code, and Observability & Monitoring.
+* Actively pursuing Badges and Certificates to demonstrate a commitment to cloud excellence.
+* Committed to growth. Always eager to learn and adapt to stay ahead in the ever-evolving world of DevOps.
+* My goal is to not just complete projects but to make them innovative, practical, and memorable.
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="actions" width="37" height="40"/> </a> 
-  <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> --> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a> 
-  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>   
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>    
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>   
+  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" alt="actions" width="37" height="40"/> </a>   
+  <!-- <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> -->   
+  <!-- <a href="https://prometheus.io" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a> -->  
+  <!-- <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> </a> -->  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>   
+  <!-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> -->   
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
 </p>
+
+#
 
 ### Socials
 
@@ -28,6 +46,7 @@
   <!--<a href="https://www.youtube.com/@LINK-HERE" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> -->
 </p>
 
+---
 
 <b>Top Repositories</b>
 
